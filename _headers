@@ -7,3 +7,5 @@
   Referrer-Policy: strict-origin-when-cross-origin
   # MIME-Type推測だけでなく、CORBにも影響するようなので付ける
   X-Content-Type-Options: nosniff
+  # なぜか勝手に Access-Control-Allow-Origin: * が付くので消す
+  ! Access-Control-Allow-Origin

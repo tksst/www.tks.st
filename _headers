@@ -1,0 +1,9 @@
+/*
+  # 古いブラウザ用
+  X-Frame-Options: DENY
+  Content-Security-Policy: default-src 'self'; object-src 'none'; frame-ancestors 'none'; form-action 'self'; sandbox allow-downloads allow-scripts allow-same-origin; script-src 'self' static.cloudflareinsights.com; connect-src 'self' cloudflareinsights.com
+  Strict-Transport-Security: max-age=31536000
+  # 古いブラウザも意識して明示的に指定する
+  Referrer-Policy: strict-origin-when-cross-origin
+  # MIME-Type推測だけでなく、CORBにも影響するようなので付ける
+  X-Content-Type-Options: nosniff

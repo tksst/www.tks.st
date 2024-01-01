@@ -1,0 +1,62 @@
+==================================================================
+https://keybase.io/tksst
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.tks.st
+  * I am tksst (https://keybase.io/tksst) on keybase.
+  * I have a public key with fingerprint CC61 F0D7 1BE4 C752 AA37  6E79 6F1D 270A DFF4 AD18
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0116add5028e8938c2e1ac71d11ecb0f59738502955520f2245cab956d2c9305632f0a",
+      "fingerprint": "cc61f0d71be4c752aa376e796f1d270adff4ad18",
+      "host": "keybase.io",
+      "key_id": "6f1d270adff4ad18",
+      "kid": "0116add5028e8938c2e1ac71d11ecb0f59738502955520f2245cab956d2c9305632f0a",
+      "uid": "4382e242ad788540d1b4fce23966ab19",
+      "username": "tksst"
+    },
+    "service": {
+      "hostname": "www.tks.st",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1704120886,
+  "expire_in": 157680000,
+  "prev": "a1d4422821d94781340ec25cc3ca2e60106e4f5d3138eaf2cfcc15b7af2cd9fe",
+  "seqno": 5,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtUjFrFEEY3ZhoYkBRwUMRBUcjBNdjZnZmdvaI/0BiYWGl5+zMN3fLxd1zd+/O
+EFIIBhRExUK0lhA72wgSOy0sBNEihUSsFK3URps4eySdpdPMzPvee/Pm47u/Z9Sb
+qK3d/XT6pH9ideTN19iDB+/OLaA4M/OosYA6MNxgzkBRNjuJQQ2ECRHKGI6pBBkF
+UlMgSofEEAI6xpZHYSBdNeKcU2wpZVyrOOLCUB0FmIuAWqyQj2yStiDv5klaOlut
+BbHYhCQGpkNOlQpCAWEkLDE0xMpYy5Qh0gnbWVEpXLhYFVBPMoe5S3MY7x/8/5y7
+N7RjgaRAGVUmlJIzbEjMrAYaREKomEQVsYA8VVfBsctO4TIv+shB/URD1dXqG1vl
+wWBQd5S64/iom2dlprM5h7fLsls0Kl053x0SIW5uWTTjJDWuhU7Rh7xIshQ1iGPq
+Mqk8SYgZoVhK4SO43k1yaCYVg4dCYreqd6DvLBUxjFEqKTHRBRZKEjAMmnKtA60o
+CEywAGa5CUggQVmqrdaEx2F1NJEFVP3qWpqhBnc5Vct5FkkrVWUvB7Q4eas35tUm
+vKO142P7f61N31tf+Tx76tnK9tTt3FGNnDe5e982cvm8t2k2Z24/f/jlzM3Hy+2N
+l0s3jv2+4t8ZXf15cO+ls9NTrScj3tunr/WrmT8bH+37D9/Wlw6PH3k0e+DH1Iv+
+Ifi+fHHX+F8=
+=0pkY
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/tksst
+
+==================================================================
